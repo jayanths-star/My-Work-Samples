@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Track_Day_Guide</title>
+    <topicref href="track_day_guide.dita"/>
+    <topicref href="a_guide_to_track_days.dita"/>
+    <topicref href="purpose_of_this_document.dita"/>
+    <topicref href="prepare_yourself.dita"/>
+    <topicref href="prepare_the_car.dita">
+        <topicref href="fire_extinguisher.dita">
+            <topicref href="to_do.dita"/>
+        </topicref>
+        <topicref href="towing_eye.dita">
+            <topicref href="to_do1.dita"/>
+        </topicref>
+        <topicref href="brakes.dita">
+            <topicref href="fluids.dita"/>
+            <topicref href="pad_thickness.dita"/>
+        </topicref>
+        <topicref href="seats_and_seat_belts.dita"/>
+        <topicref href="tyres.dita">
+            <topicref href="pressure.dita"/>
+            <topicref href="using_slicks.dita"/>
+        </topicref>
+    </topicref>
+</map>
