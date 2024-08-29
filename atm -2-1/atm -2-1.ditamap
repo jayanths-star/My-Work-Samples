@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map
-  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
-    <title>atm -2-1</title>
-    <topicref href="atm_-2-1.dita"/>
-    <topicref href="automated_teller_machine.dita"/>
-    <topicref href="withdraw_cash_from_atm_hdfc.dita"/>
-</map>
