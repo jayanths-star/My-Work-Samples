@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Withdraw_Cash_from_ATM_HDFC">
+    <title>Withdraw Cash from ATM (HDFC)</title>
+    <body>
+      <ul>
+        <li>
+          <ol>
+            <li>Insert card in the slot refer <xref href="automated_teller_machine.dita#automated_teller_machine/bookmark0">
+                <b>Figure 1: ATM</b>
+              </xref>.</li>
+            <li>Choose your language.</li>
+            <li>Enter the PIN.</li>
+            <li>Select withdraw option.</li>
+            <li>Select the account i.e., (savings or current).</li>
+            <li>
+              <image href="media-atm%20-2-1/image9(1).png"/>Enter amount.</li>
+            <li>Collect cash from cash dispenser.</li>
+            <li>For receipt press ‘YES’ if not press
+‘NO’.
+<b id="Balance_Enquiry">Balance Enquiry</b>
+            </li>
+            <li>Follow the same from step (1-3).</li>
+            <li>Select balance enquiry option.</li>
+            <li>Select the account i.e., (savings or current).</li>
+            <li>Account balance will appear on screen.
+<b id="Deposit_Cash_in_CDM">Deposit Cash in CDM</b>
+            </li>
+            <li>Follow the same from step (1-3)</li>
+            <li>Place the money in the cash deposit slot and press
+continue.</li>
+            <li>Machine will count the cash and will show the denomination-wise
+amount to be deposited.</li>
+            <li>If it is correct press ‘’DEPOSIT”.
+<b id="Do_s_and_Dont_s">Do’s and Dont’s</b>
+            </li>
+            <li>Do be aware of your surroundings while at an ATM.</li>
+            <li>Do try and memorize the PIN instead of noting it down
+somewhere.</li>
+            <li>Don’t carry your along with PIN in your wallet or
+purse.</li>
+            <li>
+              <image href="media-atm%20-2-1/image9(2).png"/>Don’t use
+your mobile phone while using the ATM.</li>
+          </ol>
+        </li>
+      </ul>
+    </body>
+  </topic>
