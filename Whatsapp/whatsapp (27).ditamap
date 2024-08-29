@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>whatsapp (27)</title>
+  <topicref href="../../../Downloads/output/c_introduction.dita"/>
+    <topicref href="../../../Downloads/output/whatsapp_27.dita"/>
+    <topicref href="../../../Downloads/output/table_of_contents.dita"/>
+    <topicref href="../../../Downloads/output/install_whatsapp_messenger.dita"/>
+    <topicref href="../../../Downloads/output/create_account.dita"/>
+    <topicref href="../../../Downloads/output/invite_people.dita"/>
+</map>
