@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Invite_People">
+    <title>Invite People</title>
+    <body>
+      <ol>
+        <li>Launch <b>WhatsApp</b> from your Home screen or the
+app drawer.</li>
+        <li>Tap on <b>INVITE</b> to add someone from your phone's
+contact list.</li>
+        <li>Tap the <b>send</b> button to send the person you're
+inviting a text.</li>
+        <li>They will appear in contacts lists once they download and
+create an account for WhatsApp.</li>
+      </ol>
+      <ul>
+        <li id="Other_options">Other options</li>
+      </ul>
+      <ol>
+        <li>Any WhatsApp user to see your <xref format="html" href="https://faq.whatsapp.com/en/android/28000015" scope="external">
+            <u>read
+receipts</u>
+          </xref>, <xref format="html" href="https://faq.whatsapp.com/en/android/20971848" scope="external">
+            <u>last
+seen</u>
+          </xref>, <xref format="html" href="https://faq.whatsapp.com/en/android/23741812" scope="external">
+            <u>about</u>
+          </xref>
+and <xref format="html" href="https://faq.whatsapp.com/en/android/23741812" scope="external">
+            <u>profile
+photo</u>
+          </xref>.</li>
+        <li>Your contacts to see your <xref format="html" href="https://faq.whatsapp.com/en/android/26000031" scope="external">
+            <u>status
+updates</u>.</xref>
+        </li>
+      </ol>
+      <p>To change settings go to WhatsApp &gt; <xref format="html" href="https://faq.whatsapp.com/en/android/21228643" scope="external">
+          <u>Menu
+Button</u>
+        </xref> &gt; Settings &gt; Account &gt; Privacy.</p>
+    </body>
+  </topic>

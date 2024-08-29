@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Create_Account">
+    <title>Create Account</title>
+    <body>
+      <ol>
+        <li>Launch <b>WhatsApp</b> from Home screen or the app
+drawer. It's a green speech bubble with a white outline and a white
+telephone receiver inside.</li>
+        <li>Tap <b>Agree and continue</b>.</li>
+        <li>Type phone number in the dialog box.</li>
+        <li>Tap <b>OK</b> to confirm that it's okay for WhatsApp
+to verify your phone number.</li>
+        <li>Tap <b>SKIP</b>.</li>
+        <li>Tap <b>Continue</b>.</li>
+      </ol>
+    </body>
+  </topic>

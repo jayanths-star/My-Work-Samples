@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="id">
+    <title>whatsapp (27)</title>
+    <body>
+      <image href="media/image1.png"/>
+      <image href="media/image2.png"/>
+      <p>
+        <b>ABSTRACT</b>
+      </p>
+      <p>
+        <b>WhatsApp</b> Messenger is a freeware and
+cross-platform messaging and Voice over IP service owned by
+Facebook. The application allows the sending of text messages and
+voice calls, as well as video calls, images and other media,
+documents, and user location.</p>
+      <p>WhatsApp seamlessly blends multimedia messaging to give you an
+easy-to-use platform wherein you create an account and you're off.
+Invite friends to join, and you can easily create group chats. If
+you've got friends that already use WhatsApp, it'll find them for
+you to make integration a breeze.</p>
+      <p>
+        <b>PURPOSE:</b> The guide describes about how to
+install, create account and to get setup with WhatsApp.</p>
+      <p>
+        <b>VERSION:</b> 2.18.277</p>
+      <p>Contents</p>
+    </body>
+  </topic>
