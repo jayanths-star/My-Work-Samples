@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Google Pay</title>
+    <topicref href="c_introduction.dita"/>
+    <topicref href="t_installation.dita"/>
+    <topicref href="account_creation_0.dita"/>
+    <topicref href="bank_account_registration.dita"/>
+    <topicref href="pay_electric_bills.dita"/>
+</map>

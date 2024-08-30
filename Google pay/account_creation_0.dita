@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="account_creation_0">
+    <title>Account Creation</title>
+    <shortdesc>This information describes about Account Creation</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open Google Pay.</cmd>
+            </step>
+            <step>
+                <cmd>Select language.</cmd>
+            </step>
+            <step>
+                <cmd>Type phone number.</cmd>
+            </step>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_steps_to_save_a_word_document">
+    <title>Steps to save a word document</title>
+    <shortdesc>This topic describes about saving the document.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on <uicontrol>File</uicontrol>tab.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>Save</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select a specific location for the file to save. </cmd>
+            </step>
+            <step>
+                <cmd>Select the file format which you want to use.</cmd>
+            </step>
+            <step>
+                <cmd>Given any name to the document and click <uicontrol>OK</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

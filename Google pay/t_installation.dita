@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_installation">
+    <title>Installation</title>
+    <shortdesc>This information describes about installation.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open the play store.</cmd>
+            </step>
+            <step>
+                <cmd>Search for Google Pay.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Install</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

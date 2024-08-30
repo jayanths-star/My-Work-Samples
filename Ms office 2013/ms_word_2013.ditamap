@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>MS WORD-2013</title>
+    <topicref href="abstract.dita"/>
+    <topicref href="steps_to_create_a_blank_document.dita"/>
+    <topicref href="t_steps_to_save_a_word_document.dita"/>
+    <topicref href="t_steps_to_open_a_document_in_word.dita"/>
+</map>

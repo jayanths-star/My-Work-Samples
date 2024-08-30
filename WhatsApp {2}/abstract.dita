@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="abstract">
+    <title>Abstract</title>
+    <shortdesc>Infromation about WhatsApp messenger.</shortdesc>
+    <conbody>
+        <p>WhatsApp Messenger is a freeware and cross-platform messaging and Voice over IP service
+            owned by Facebook. The application allows the sending of text messages and voice calls,
+            as well as video calls, images and other media, documents, and user location. WhatsApp
+            seamlessly blends multimedia messaging to give you an easy-to-use platform wherein you
+            create an account and you're off. Invite friends to join, and you can easily create
+            group chats. If you've got friends that already use WhatsApp, it'll find them for you to
+            make integration a breeze.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>WhatsApp M</title>
+    <topicref href="abstract.dita"/>
+    <topicref href="t_install_whatsapp_messenger.dita"/>
+    <topicref href="create_account.dita"/>
+    <topicref href="invite_people.dita"/>
+</map>

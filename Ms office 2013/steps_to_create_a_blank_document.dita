@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="steps_to_create_a_blank_document">
+    <title>Steps to create a blank document</title>
+    <shortdesc>This topic describes about creation of blank documnet.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Click on <uicontrol>FILE</uicontrol> tab.</cmd>
+            </step>
+            <step>
+                <cmd>Click on <uicontrol>NEW</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Select blank document.</cmd>
+            </step>
+            <step>
+                <cmd>A blank document appears.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

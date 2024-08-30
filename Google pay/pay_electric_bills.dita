@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="pay_electric_bills">
+    <title>Pay Electric Bills</title>
+    <shortdesc>This information describes about Electric Bill Payments.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Pay Electric Bills Open <uicontrol>Google Pay</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Swipe up and tap<uicontrol>Bills </uicontrol> in <uicontrol>Businesses &amp;
+                        bills field</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Electricity</uicontrol> and select the billers from the
+                    list.</cmd>
+            </step>
+            <step>
+                <cmd>Select a linked account.</cmd>
+            </step>
+            <step>
+                <cmd>Tap on the bill.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Pay</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the UPI PIN. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

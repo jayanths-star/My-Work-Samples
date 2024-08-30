@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create_account">
+    <title>Create Account</title>
+    <shortdesc>This information  describes about  account creation.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Launch <uicontrol>WhatsApp </uicontrol>from Home screen or the app drawer. It's
+                    a green speech bubble with a white outline and a white telephone receiver
+                    inside.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Agree and continue</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Type phone number in the dialog box.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>OK </uicontrol>to confirm that it's okay for WhatsApp to verify
+                    your phone number.</cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>SKIP</uicontrol>. </cmd>
+            </step>
+            <step>
+                <cmd>Tap <uicontrol>Continue</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

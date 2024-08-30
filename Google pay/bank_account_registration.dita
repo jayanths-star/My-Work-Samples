@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="bank_account_registration">
+    <title>Bank Account Registration</title>
+    <shortdesc>This information describes about Bank Registration.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Tap profile.</cmd>
+            </step>
+            <step>
+                <cmd>   Tap<uicontrol>Bank account</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Tap Add bank account.</cmd>
+            </step>
+            <step>
+                <cmd>Select bank from the list and tap<uicontrol> Continue</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the card details, for example, expiry date and
+                        tap<uicontrol>Confirm</uicontrol>. </cmd>
+            </step>
+            <step>
+                <cmd>Enter the UPI PIN and confirm by re-entering.</cmd>
+            </step>
+            <step>
+                <cmd>Tap<uicontrol> Set </uicontrol>to set the UPI PIN. </cmd>
+            </step>
+            <step>
+                <cmd>Step Result: After successful registration, you can start payments.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_introduction">
+    <title>Introduction</title>
+    <shortdesc>Information about google pay.</shortdesc>
+    <conbody>
+        <p>Google Pay (GPay) is a mobile payment app introduced by Google to make payments hassle
+            free. GPay was released in August 17, 2017 in the name of Tez and rebranded to Google
+            Pay on August 28, 2018. GPay application is supported in Android and IOS platform.</p>
+    </conbody>
+</concept>
